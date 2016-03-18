@@ -12,7 +12,7 @@
 	"institutions" : "[ 'University of Massachusetts Medical School' ]",
 	"keywords" : "[ 'demographics', 'histograms', 'observations', 'webclient' ]",
         "package" : "https://github.com/i2b2plugins/wc-CARE-conceptObservationTallyDemographicsHistograms/archive/v1.3.zip",
-        "icon" : "https://raw.githubusercontent.com/i2b2plugins/wc-CARE-conceptObservationTallyDemographicsHistograms/master/careCncptDemHist.png",
+        "icon" : "https://raw.githubusercontent.com/i2b2plugins/wc-CARE-conceptObservationTallyDemographicsHistograms/master/careCncptObsDemHist.png",
 	"userManual" : "https://github.com/i2b2plugins/wc-CARE-conceptObservationTallyDemographicsHistograms/blob/master/CARE-observationTallys v1.2 User Manual.pdf",
 	"installGuide" : "https://github.com/i2b2plugins/wc-CARE-conceptObservationTallyDemographicsHistograms/CARE-observationTallys v1.2 Installation Guide.pdf",
 	"configuration" : "None",
